@@ -24,3 +24,8 @@ Lib que lida com o frormato MultiForm Data
 ```
 npm install multer
 ```
+
+Instalação do CORS
+```
+npm install cors
+```
