@@ -18,4 +18,7 @@ Para fazer requisições para o back-end
 npm install axios
 ```
 
-1:10min
+Para atualização em tempo real
+```
+npm install socket.io-client
+```

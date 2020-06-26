@@ -29,3 +29,8 @@ Instalação do CORS
 ```
 npm install cors
 ```
+
+Para fazer atualizações em tempo real
+```
+npm install socket-io
+```

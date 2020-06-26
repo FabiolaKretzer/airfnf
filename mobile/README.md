@@ -28,3 +28,8 @@ Para fazer requisições para o back-end
 ```
 npm install axios
 ```
+
+Para atualização em tempo real
+```
+npm install socket.io-client
+```
